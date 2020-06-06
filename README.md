@@ -1,8 +1,7 @@
 # Ecoleta
 
 Projeto Criado durante a Next Level Week 01 da Rocketseat.
-
-Aplicativo de compartilhamento de pontos de coleta de recicláveis.
+É um aplicativo de compartilhamento de pontos de coleta de recicláveis.
 
 * Backend em Node JS ([server](server))
 * Frontend em React ([web](web)) e React Native ([mobile](mobile))
